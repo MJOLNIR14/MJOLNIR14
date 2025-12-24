@@ -15,7 +15,7 @@
 ## 🛠️ **Tech Stack I Actually Use**
 
 ### **Comfortable With:**
-```python
+
 # These I can work with
 languages = ["Python", "SQL"]
 tools = ["Git", "VS Code", "Jupyter"]
