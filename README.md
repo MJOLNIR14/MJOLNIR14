@@ -4,7 +4,7 @@
 ---
 
 ### 🔧 **Tech Stack**
-**Python** · **Java** · **Git** · **SQL** · **VS Code** · **Tkinter**
+**Python** · **C** · **Java** · **Git** · **SQL** · **VS Code** · **Tkinter**
 
 ---
 
