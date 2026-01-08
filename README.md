@@ -24,8 +24,8 @@
 
 ### 📬 **Connect With Me**
 📧 **Email:** leonelsebastian579@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/leonel-sebastian  
-💻 **GitHub:** github.com/MJOLNIR14
+💼 **LinkedIn:** https://linkedin.com/in/leonel-sebastian  
+💻 **GitHub:** https://github.com/MJOLNIR14
 
 ---
 
