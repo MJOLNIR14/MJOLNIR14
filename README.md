@@ -18,9 +18,9 @@
 ---
 
 ### 📊 Performance Metrics
-![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=radical&hide_border=true)
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MJOLNIR14&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 ---
 
 > *"Learning to build things that work — one commit at a time."*
