@@ -1,44 +1,36 @@
-# 👨‍💻 Leonel Sebastian
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MJOLNIR14&label=Profile%20Views&color=0e76a8&style=flat-square" alt="MJOLNIR14" />
-</p>
+<div align="center">
 
-**Engineering Student | Python Developer | Java Learner** *Building tools that bridge the gap between code and utility — one commit at a time.*
+# Leonel Sebastian
+**Engineering Student | Python Developer | Java Learner**
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Icons |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
-| **Databases** | ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **Frameworks** | ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge) |
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonel-sebastian)
+[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonelsebastian579@gmail.com)
+![](https://komarev.com/ghpvc/?username=MJOLNIR14&label=Views&color=black&style=flat-square)
 
 ---
 
-### 🚀 Current Focus
-* 🐍 **Desktop Mastery**: Crafting intuitive GUIs using **Python & Tkinter**.
-* ☕ **Java Journey**: Deep-diving into **Object-Oriented Programming (OOP)** and Data Structures.
-* 📐 **Architecture**: Focused on writing **Clean Code** and understanding system design.
+### ⚡ Quick Bio
+*“Building efficient tools with clean code — one commit at a time.”*
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=tokyonight&hide_border=true" alt="Leonel's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
-</p>
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📬 Connect with Me
-<p align="left">
-<a href="mailto:leonelsebastian579@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/leonel-sebastian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### 🚀 Performance Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=444" width="400" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=444" width="300" />
 
 ---
 
-> *"Learning to build things that work — one commit at a time."*
+### 🔧 Current Focus
+**GUI Development** (Tkinter) • **OOP Principles** (Java) • **System Design**
+
+</div>
