@@ -17,10 +17,8 @@
 
 ---
 
-### 📊 Performance Metrics
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MJOLNIR14&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
+### 📈 Activity
+![](https://metrics.lecoq.io/MJOLNIR14?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FNew_York)
 ---
 
 > *"Learning to build things that work — one commit at a time."*
