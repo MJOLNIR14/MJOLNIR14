@@ -17,8 +17,10 @@
 
 ---
 
-### 📈 Activity
-![](https://metrics.lecoq.io/MJOLNIR14?template=classic&base=header%2C%20activity%2C%20community&config.timezone=America%2FNew_York)
+### 📈 Performance Analysis
+[![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 > *"Learning to build things that work — one commit at a time."*
