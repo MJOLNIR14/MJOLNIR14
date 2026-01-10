@@ -18,8 +18,8 @@
 ---
 
 ### 📊 Performance Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=radical&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=radical&hide_border=true" width="350" />
+![Leonel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJOLNIR14&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLNIR14&layout=compact&theme=radical&hide_border=true)
 
 ---
 
